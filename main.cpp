@@ -37,8 +37,8 @@ int main(int argc, char * argv[]) {
     
     vector<Rectangle>rect;
     
-    Rectangle r1 (105, 105, 0, 0, 255, 255, 255);
-    r1.setSpeed(5, 4);
+    Rectangle r1 (100, 150, 0, 0, 0, 107, 75);
+    r1.setSpeed(5, 3);
 
     rect.push_back(r1);
 
